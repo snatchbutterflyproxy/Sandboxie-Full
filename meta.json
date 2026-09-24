@@ -1,0 +1,23 @@
+{
+  "repo": "sandboxie-full",
+  "product": "Sandboxie Full",
+  "kind": "security",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zentool-part1",
+  "format": "license-md-zentool-v1",
+  "category": "endpoint-security",
+  "topics": [
+    "sandboxie",
+    "sandboxie-windows",
+    "endpoint-security-desktop",
+    "how-to-install-sandboxie",
+    "sandboxie-desktop-package",
+    "sandboxie-workspace",
+    "sandboxie-pro-tools",
+    "sandboxie-suite",
+    "zentool-sandboxie",
+    "sandboxie-tool-9"
+  ],
+  "site": "zentool.art"
+}
